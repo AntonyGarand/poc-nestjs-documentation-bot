@@ -1,0 +1,3 @@
+[submodule "src/doc/docs.nestjs.com"]
+	path = src/doc/docs.nestjs.com
+	url = https://github.com/nestjs/docs.nestjs.com
